@@ -1,0 +1,50 @@
+
+Create the following directory structure. (Create empty files where necessary)
+
+1.Create the directory hello and one by using the following commands.
+mkdir hello
+mkdir one
+
+2.Change the directory to hello 
+cd hello
+	2.1 create the directory five
+	mkdir five
+	2.2 Create the directory six inside the five directory
+	cd five
+	mkdir six
+	2.3 create the file c.txt and directory seven inside 
+	directory six
+	cd six
+	mkdir seven
+	touch c.txt
+	2.4 Create the error.log file inside seven direcory
+	cd seven
+	touch error.log
+3.Change the directory to one
+	cd one
+	3.1 Create files a.txt,b.txt and directory two inside the 
+	one directory.
+	touch a.txt
+	touch b.txt
+	mkdir two
+	3.2 Create d.txt file and directory three inside two
+	directory.
+	cd two
+	touch d.txt
+	mkdir three
+	3.3 Create the file e.txt and directory four under three 
+	directory.
+	cd three
+	touch e.txt
+	mkdir four
+	3.4 Create access.log file under the directory four
+	cd four
+	touch access.log
+	
+	
+	
+	
+	
+
+
+
